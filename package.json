@@ -37,7 +37,7 @@
     "@types/js-yaml": "^4.0.9",
     "@types/json-schema": "^7.0.15",
     "@types/mustache": "^4.2.6",
-    "@types/node": "^20.19.43",
+    "@types/node": "^26.6.6",
     "@types/which": "^3.0.4",
     "@vitest/coverage-v8": "^4.1.12",
     "esbuild": "^0.25.12",
